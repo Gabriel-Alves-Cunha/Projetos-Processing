@@ -1,0 +1,4 @@
+Principais características
+Uma Web Wiki permite que os documentos sejam editados colectivamente com uma linguagem de marcação muito simples e eficaz, por meio da utilização de um navegador web.[8] Dado que a grande maioria dos Wikis é baseada na web, o termo wiki é normalmente suficiente. Uma única página em um wiki é referida como uma "única página", enquanto o conjunto total de páginas, que estão altamente interligadas, chama-se 'a wiki'.
+
+Uma das características definitivas da tecnologia wiki é a facilidade com que as páginas são criadas e alteradas - geralmente não existe qualquer revisão antes de as modificações serem aceitas, e a maioria dos wikis são abertos a todo o público ou pelo menos a todas as pessoas que têm acesso ao servidor wiki. Nem o registro de usuários é obrigatório em todos os wikis.
